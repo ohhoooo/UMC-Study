@@ -1,8 +1,14 @@
 # UMC-Study
 
-<p align="center">
+<div align="center">
 <img src = "https://github.com/ohhoooo/UMC-Study/assets/76588245/4056a61e-66cd-4a13-bce5-8e0c34c1145e" width="20%" height="20%">
-</p>
+</div>
+
+<div align="center">
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohhoooo%2FUMC-Study&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+</div>
 
 ## UMC
 
@@ -27,7 +33,7 @@
   * UMCProject9 - Network 통신
   * UMCProject10 - API & Login 방법
 
-## Stacks
+## Stacks 📚
 
 ### Environment
 
